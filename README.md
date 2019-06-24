@@ -1,4 +1,3 @@
-# talks
-
-Mostly a bunch of Jupyter notebooks for doing live-coding classes or talk. Maybe some LaTeX too...
 # Presentations, lessons, and workshops
+
+Mostly a bunch of Jupyter notebooks used in live-code demonstrations and workshops. 
